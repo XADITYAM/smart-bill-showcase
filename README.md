@@ -17,23 +17,23 @@ Smart Bill is a Flutter-based billing and invoice management application designe
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](home_screen.png)
 
 ### Product Management
 
-![Products](screenshots/products_screen.png)
+![Products](products_screen.png)
 
 ### Customer Management
 
-![Customers](screenshots/customers_screen.png)
+![Customers](customers_screen.png)
 
 ### Invoice Creation
 
-![Invoice](screenshots/invoice_screen.png)
+![Invoice](invoice_screen.png)
 
 ### Generated PDF
 
-![PDF Invoice](screenshots/pdf_invoice.png)
+![PDF Invoice](pdf_invoice.png)
 
 ## Tech Stack
 
